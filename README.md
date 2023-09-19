@@ -1,4 +1,11 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssi02014&count_bg=%2379C83D&title_bg=%23555555&icon=compropago.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br />
+
+<div>
+  <a href="www.linkedin.com/in/sangmin-park-72383b203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 <!--
 **Sangminnn/Sangminnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
